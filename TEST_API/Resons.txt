@@ -1,0 +1,10 @@
+﻿Lựa Chọn Công Nghệ:
+Lý do 1: Sự Tăng Cường Cơ Sở Dữ Liệu:
+
+Với yêu cầu đặt hàng và chỉnh sửa thông tin đơn hàng, sự linh hoạt của cơ sở dữ liệu là quan trọng. Sử dụng một cơ sở dữ liệu có thể mở rộng dễ dàng để đáp ứng nhu cầu tăng vọt trong mùa mua sắm (ví dụ: Azure SQL Database).
+Lý do 2: Microservices Architecture:
+
+Áp dụng kiến trúc microservices giúp tối ưu hóa chi phí xây dựng và bảo trì. Các dịch vụ nhỏ độc lập có thể được phát triển và triển khai độc lập, giảm rủi ro và cải thiện khả năng mở rộng.
+Lý do 3: Sử Dụng Azure App Service:
+
+Sử dụng Azure App Service cho việc phát triển website đặt hàng. Nó cung cấp một môi trường phát triển linh hoạt, tích hợp sẵn với nhiều dịch vụ Azure khác và hỗ trợ nhanh chóng triển khai.
